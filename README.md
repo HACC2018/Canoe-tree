@@ -23,6 +23,7 @@ After cloning or downloading the sample you should be able to run it using an In
 
 We uploaded the Android version. You can download it via the following link:
 [![Build status](https://build.appcenter.ms/v0.1/apps/9f176d19-b4a3-4408-8df8-7857a7eafde0/branches/master/badge)](https://appcenter.ms)[Download for android](https://install.appcenter.ms/orgs/hacc2018/apps/planthunter/distribution_groups/all)
+**Known bug: the app crashes when you open it for the first time (after giving permission). After the crash just open the app again. Also when giving permission for taking a picture, just press "Take picture" again.** 
 
 The mobile part is a bit more tricky. Make sure you have installed Xamarin, you can select the mobile development options during the install of visual studio.
 
