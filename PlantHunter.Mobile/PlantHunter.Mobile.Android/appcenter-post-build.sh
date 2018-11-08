@@ -1,2 +1,0 @@
-msbuild $APPCENTER_SOURCE_DIRECTORY/Source/PlantHunter.Mobile.UITests/PlantHunter.Mobile.UITests.csproj /p:Configuration=Release 
-appcenter test run uitest --app $APP --devices $DEVICES --app-path $APPCENTER_OUTPUT_DIRECTORY/com.microsoft.smarthotel.apk  --test-series "master" --locale "en_US" --build-dir $APPCENTER_SOURCE_DIRECTORY/Source/PlantHunter.Mobile.UITests/bin/Release --uitest-tools-dir $APPCENTER_SOURCE_DIRECTORY/Source/packages/Xamarin.UITest.*/tools --async --token $TOKEN
