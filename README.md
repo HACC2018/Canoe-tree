@@ -6,7 +6,7 @@ Planthunter is an easy to use app for hikers, citizen scientists and botanists. 
 
 If you are correct you get points. Be the one with the most points!
 
-![image](https://raw.githubusercontent.com/HACC2018/Canoe-tree/master/PlantHunter.Mobile/PlantHunter.Mobile.Droid/Resources/drawable/splash.png)
+![image](https://raw.githubusercontent.com/HACC2018/Canoe-tree/master/PlantHunter.Mobile/PlantHunter.Mobile.Android/Resources/drawable-hdpi/bg_splash.png)
 
 Build status:
 [![Build status](https://allardsoeters.visualstudio.com/Canoe-tree-2/_apis/build/status/Canoe-tree-2-Azure%20Web%20App%20for%20ASP.NET-CI)](https://allardsoeters.visualstudio.com/Canoe-tree-2/_build/latest?definitionId=28)
@@ -21,7 +21,8 @@ After cloning or downloading the sample you should be able to run it using an In
 
 ## Running mobile
 
-We uploaded the Android version on the google play store. *Insert google link here*
+We uploaded the Android version. You can download it via the following link:
+[![Build status](https://build.appcenter.ms/v0.1/apps/9f176d19-b4a3-4408-8df8-7857a7eafde0/branches/master/badge)](https://appcenter.ms)[Download for android](https://install.appcenter.ms/orgs/hacc2018/apps/planthunter/distribution_groups/all)
 
 The mobile part is a bit more tricky. Make sure you have installed Xamarin, you can select the mobile development options during the install of visual studio.
 
